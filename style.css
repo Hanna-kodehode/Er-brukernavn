@@ -1,0 +1,14 @@
+body div {
+  background-color: blueviolet;
+  padding: 25px;
+  border-radius: 10px;
+  min-width: 200px;
+  max-width: 300px;
+  border: 5px, #0000;
+}
+
+button {
+  border-radius: 5px;
+  background-color: rgb(56, 56, 56);
+  color: blanchedalmond;
+}
